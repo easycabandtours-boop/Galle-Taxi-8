@@ -1,0 +1,7 @@
+{
+  "name": "Galle Prestige Chauffeur",
+  "description": "Sri Lanka's premier private chauffeur and airport transfer service. Luxury transfers between Colombo Airport (CMB) and Galle Fort, Weligama, and the Southern Coast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
